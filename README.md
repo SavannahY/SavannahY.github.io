@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Zhengjie (Jane) Yang
 
-You can use the [editor on GitHub](https://github.com/SavannahY/SavannahY.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am an Associate Manager of Applications at Qcells USA Corp, under the Systems Integration team focusing on Utility-scale Energy Storage Systems (ESS) project analysis, sizing and pricing. I primaliry work on topics related to energy markets, electricity price, energy storage technology.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Prior to Qcells, I obtained my Master of Science in Systems Engineering Degree at the University of Pennsylvania. I work with Prof. Noam Lior on sustainability aspects of hydrogen-fueled automobiles. I obtained my Bachelor's Degrees from Chongqing in New Energy Science and Engineering and Mechanical Engineering Honor Degree. I also have worked with Prof. Ao Xia on Electrodialysis-based Biogas Hydrogen Fuel Cell System. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SavannahY/SavannahY.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
